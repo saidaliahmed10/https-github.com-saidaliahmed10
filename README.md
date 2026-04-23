@@ -6,5 +6,5 @@
 * 📡 Currently, I am working as a Data Science Consultant at Golis Telecom Somalia.
 * 🎓 MSc in Data Science (Konkuk University, Seoul).
 * 💹 Interested in Financial and Supply Chain data analysis.
-* 🌍 Based in Somalia
+* 🌍 Based in Somalia.
 * 🧩 I enjoy extracting insights from data to solve real-world problems.
