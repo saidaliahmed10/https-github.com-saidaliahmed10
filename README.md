@@ -3,10 +3,8 @@
 ### MSc in Data Science | Telecommunications Data Analysis | Financial Data Analysis | Supply Chain Data Analysis
 
 ## 👨‍💻 About Me
-* 📡 Telecommunication Engineer turned Data Scientist — turning domain expertise into data insights.
-
+* 📡 "Currently, I am working as a Data Science Consultant at Golis Telecom Somalia."
 * 🎓 MSc in Data Science (Konkuk University, Seoul).
-
-* 💹 Specialized in Financial and Supply Chain data analysis.
-
-* 🌍 Based in Somalia, currently consulting for Golis Telecom.
+* 💹 Interested in Financial and Supply Chain data analysis.
+* 🌍 Based in Somalia
+* 🧩 I enjoy extracting insights from data to solve real-world problems.
