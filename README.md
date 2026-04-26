@@ -9,7 +9,6 @@
 * 🌍 Based in Somalia.
 * 🧩 I enjoy extracting insights from data to solve real-world problems.
 
-
 ## 🛠 Skills & Tools
 
 ### 💻 Programming & Querying
