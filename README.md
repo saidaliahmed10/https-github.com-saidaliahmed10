@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills & Tools
 
-### Languages & Querying
+### 💻 Languages & Querying
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-Advanced-0078D4?style=for-the-badge)
