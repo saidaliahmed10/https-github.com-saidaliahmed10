@@ -13,40 +13,40 @@
 ## 🛠 Skills & Tools
 
 ### 💻 Programming & Querying
-![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![SQL](https://img.shields.io/badge/SQL-Advanced-green)
-![R](https://img.shields.io/badge/R-Statistics-lightgrey)
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-green)
+![R](https://img.shields.io/badge/R-lightgrey)
 
 ---
 
 ### 📊 Data Analysis & Manipulation
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue)
+![Pandas](https://img.shields.io/badge/Pandas-black)
+![NumPy](https://img.shields.io/badge/NumPy-blue)
 
 ---
 
 ### 📈 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical-lightblue)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-blue)
 
 ---
 
 ### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)
 
 ---
 
 ### 🧠 Advanced / Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
 
 ---
 
 ### 🧰 Tools & Environment
-![Git](https://img.shields.io/badge/Git-VersionControl-black)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-lightgrey)
-![VS Code](https://img.shields.io/badge/VSCode-Editor-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Git](https://img.shields.io/badge/Git-black)
+![GitHub](https://img.shields.io/badge/GitHub-lightgrey)
+![VS Code](https://img.shields.io/badge/VSCode-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange)
 
 ## 📂 Portfolio
